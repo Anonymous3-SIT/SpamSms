@@ -32,7 +32,7 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/Fukur0-3XP/SpamSms
+$ git clone https://github.com/Anonymous3-SIT/SpamSms
 
 $ cd SpamSms
 
@@ -48,7 +48,7 @@ $ pip2 install mechanize
 
 $ pip2 install requests
 
-$ git clone https://github.com/Fukur0-3XP/SpamSms
+$ git clone https://github.com/Anonymous3-SIT/SpamSms
 
 $ cd SpamSms
 
@@ -60,7 +60,7 @@ $ python2 Spam.py
 
 ```
 
-Creator : Mr.TamfanX
+Creator  : Mr.TamfanX
 
 Team     : SHUTDOWN INDO TEAM
 
