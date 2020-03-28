@@ -226,7 +226,7 @@ try:
 			data = {
 			'requests_id' : '',
 			'first_name' : 'Subscribe YT',
-			'last_name' : 'Jejak Cyber',
+			'last_name' : 'caplin.id',
 			'gender' : 'male',
 			'phone_number' : Phone,
 			'birthday' : '0000-00-00',
@@ -691,7 +691,7 @@ try:
 				sys.exit()
 		
 		elif PilihTools == '9':
-			os.system('xdg-open http://wa.me/6285880818385?text=Hallo')
+			os.system('xdg-open http://wa.me/628999271792?text=Hallo')
 		
 		elif PilihTools == 'X' or PilihTools == 'x':
 			print
@@ -715,9 +715,9 @@ except ImportError:
 	os.system('clear')
 	
 if __name__ == '__main__':
-	print(C+'Subscribe YT'+W+' Gua Dlu Ya Su !'+C+' :V')
+	print(C+'Save Nomor Wa'+W+' Gua Dlu Yah!'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
+	os.system('xdg-open http://api.whatsapp.com/send?phone=628999271792')
 	sleep(7)
 	Spam()
