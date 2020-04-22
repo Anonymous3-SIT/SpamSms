@@ -715,9 +715,9 @@ except ImportError:
 	os.system('clear')
 	
 if __name__ == '__main__':
-	print(C+'Save Nomor Wa'+W+' Gua Dlu Yah!'+C+' :V')
+	print(C+'Subscribe YT'+W+' Gua Dlu Yah!'+C+' :V')
 	sleep(2)
 	os.system('clear')
-	os.system('xdg-open http://wa.me/628999271792?text=ASSALAMU'ALAIKUM%2C%20BOLEH%20SAVE%20WA%20NYA%20GA%20Mr.TamfanX%3F')
+	os.system('xdg-open https://m.youtube.com/channel/UC0LsiFgUAbd03TJXiT4Eo7Q')
 	sleep(7)
 	Spam()
